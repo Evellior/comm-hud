@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/comm-hud/static/css/main.a617e044.chunk.css",
-    "main.js": "/comm-hud/static/js/main.6bc689e0.chunk.js",
-    "main.js.map": "/comm-hud/static/js/main.6bc689e0.chunk.js.map",
+    "main.js": "/comm-hud/static/js/main.c728b28d.chunk.js",
+    "main.js.map": "/comm-hud/static/js/main.c728b28d.chunk.js.map",
     "runtime-main.js": "/comm-hud/static/js/runtime-main.b93b4ba7.js",
     "runtime-main.js.map": "/comm-hud/static/js/runtime-main.b93b4ba7.js.map",
     "static/js/2.8833cd6e.chunk.js": "/comm-hud/static/js/2.8833cd6e.chunk.js",
@@ -11,13 +11,12 @@
     "static/js/3.ff0311e9.chunk.js.map": "/comm-hud/static/js/3.ff0311e9.chunk.js.map",
     "index.html": "/comm-hud/index.html",
     "static/css/main.a617e044.chunk.css.map": "/comm-hud/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.8833cd6e.chunk.js.LICENSE.txt": "/comm-hud/static/js/2.8833cd6e.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/comm-hud/static/media/logo.6ce24c58.svg"
+    "static/js/2.8833cd6e.chunk.js.LICENSE.txt": "/comm-hud/static/js/2.8833cd6e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b93b4ba7.js",
     "static/js/2.8833cd6e.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.6bc689e0.chunk.js"
+    "static/js/main.c728b28d.chunk.js"
   ]
 }
