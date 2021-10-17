@@ -1,10 +1,18 @@
 import './App.css';
-import Camera from './components/Camera';
+import BackgroundVideo from './components/BackgroundVideo';
+import { MyResponsiveLine } from './components/DummyChart';
+
+const videoSource = "https://www.w3schools.com/tags/movie.mp4";
 
 function App() {
   return (
     <div className="App">
-      <Camera/>
+      <BackgroundVideo
+        videoSource={videoSource}
+        children={
+          <MyResponsiveLine />
+        }
+      />
     </div>
   );
 }
